@@ -3,7 +3,7 @@ This is a repository that includes the links to the repositories to my different
 
 •    https://github.com/PHNX-MOD/2048_Game :2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli. 
 
-•    https://github.com/PHNX-MOD/Data_Capstone_Project : 911 calls project & Finance Data Project
+•    https://github.com/PHNX-MOD/Data_Capstone_Project : Data Analysis / Matplotlib / panadas / numpy / 911 calls project &      Finance Data Project
 
 •   https://github.com/PHNX-MOD/to_do : A simple to do app, an instagrambot to get follower and likes using selenium
 
