@@ -5,6 +5,8 @@ This is a repository that includes the links to the repositories to my different
 
 •    Data Analysis / Matplotlib / panadas / numpy / 911 calls project & Finance Data Project, https://github.com/PHNX-MOD/Data_Capstone_Project.
 
+•    DIfferent Django projects, https://github.com/PHNX-MOD/django-projects/tree/master/products_project
+
 •   A simple to do app, an instagrambot to get follower and likes using selenium, https://github.com/PHNX-MOD/to_do.
 
 •    Sport data (PyMongo), csv, https://github.com/PHNX-MOD/sport_data.
