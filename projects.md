@@ -4,7 +4,7 @@ This is a repository that includes the links to the repositories to my different
 - DIfferent Django projects, https://github.com/PHNX-MOD/mysite (currently working), https://github.com/aeciovc/sda_django_myquote (group project), https://github.com/PHNX-MOD/django-projects/tree/master/blog_django , https://github.com/PHNX-MOD/ProductsCatalog
 <img src="https://github.com/PHNX-MOD/javascript_projects/blob/master/Images/online_store.png" width="300">  
 
-***fig: online store created using django***
+***fig: Online store created using django***
 
 - Data Analysis / Matplotlib / panadas / numpy / 911 calls project & Finance Data Project, https://github.com/PHNX-MOD/Data_Capstone_Project.
 
