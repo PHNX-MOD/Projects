@@ -10,8 +10,13 @@ This is a repository that includes the links to the repositories to my different
 
 - Javascript projects https://github.com/PHNX-MOD/javascript_projects
 <img src="https://github.com/PHNX-MOD/javascript_projects/blob/master/Images/clock.PNG" width="100">
+
 - A simple to do app, an instagrambot to get follower and likes using selenium, https://github.com/PHNX-MOD/to_do.
+
 - Sport data (PyMongo), csv, https://github.com/PHNX-MOD/sport_data.
+
 - A blog using flask framework, https://github.com/PHNX-MOD/Blog.
+
 - Link to my Mechatronics experience  https://sway.office.com/txdpRdSG2sEkBGpm?ref=Link
+
 - Link to my Betting industry experience: https://sway.office.com/xXAceP8UxppJ05p6?ref=Link
