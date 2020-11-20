@@ -14,4 +14,3 @@ Outside of [GitHub](https://github.com/PHNX-MOD),
 [![GitHub ModithHadya](https://img.shields.io/github/followers/ModithHadya?label=follow&style=social)](https://github.com/PHNX-MOD)
 <p><a href="#">🌐 Check out my website</a></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHNX-MOD&layout=compact)](https://github.com/PHNX-MOD/github-readme-stats)
-api/top-langs?username=PHNX-MOD
