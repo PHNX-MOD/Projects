@@ -1,15 +1,26 @@
-**Hey There! How are you doing** :star_struck: <br> This is me [**GitHub** profile](https://github.com/PHNX-MOD) - Modith Hadya. I am a data-driven person who likes to solve problems through coding and also someone who is driven by intellectual curiosity to solve pressing problems. I am a Risk Analyst by profession and coding enthusiast by passion. I am very much interested in Web development and have worked on (Reactjs, Django, Python, Nodejs).
-**Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PHNX-MOD&show_icons=true&theme=radical)
-Outside of [GitHub](https://github.com/PHNX-MOD),
-[![Linkedin: ModithHadya](https://img.shields.io/badge/-ModithHadya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ModithHadya/)](https://www.linkedin.com/in/modith-hadya-leelananda-09425346)
-[![GitHub ModithHadya](https://img.shields.io/github/followers/ModithHadya?label=follow&style=social)](https://github.com/PHNX-MOD)
-<p><a href="#">🌐 Check out my website</a></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHNX-MOD&layout=compact)](https://github.com/PHNX-MOD/github-readme-stats)
+# **Projects**
+This is a repository that includes the links to the repositories to my different projects.
+
+- DIfferent Django projects, https://github.com/PHNX-MOD/mysite , https://github.com/aeciovc/sda_django_myquote (group project), https://github.com/PHNX-MOD/django-projects/tree/master/blog_django , https://github.com/PHNX-MOD/ProductsCatalog
+<img src="https://github.com/PHNX-MOD/javascript_projects/blob/master/Images/online_store.png" width="300">  
+
+***fig: Online store created using django***
+
+- Data Analysis / Matplotlib / pandas / numpy / 911 calls project & Finance Data Project, https://github.com/PHNX-MOD/Data_Capstone_Project.
+
+- 2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli,            https://github.com/PHNX-MOD/2048_Game.
+
+- Javascript projects https://github.com/PHNX-MOD/javascript_projects
+<img src="https://github.com/PHNX-MOD/javascript_projects/blob/master/Images/clock.PNG" width="100"> 
+
+***fig: Analog clock created using javascript***
+
+- A simple to do app, an instagrambot to get follower and likes using selenium, https://github.com/PHNX-MOD/to_do.
+
+- Sport data (PyMongo), csv, https://github.com/PHNX-MOD/sport_data.
+
+- A blog using flask framework, https://github.com/PHNX-MOD/Blog.
+
+- Link to my Mechatronics experience  https://sway.office.com/txdpRdSG2sEkBGpm?ref=Link
+
+- Link to my Betting industry experience: https://sway.office.com/xXAceP8UxppJ05p6?ref=Link
